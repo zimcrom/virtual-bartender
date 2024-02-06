@@ -10,7 +10,7 @@ function Layout({ children }: { children: React.ReactNode}) {
     <link rel="shortcut icon" type="image/png" href="favicon48.png" />
     </Head>
       <Header />
-      <main>
+      <main className="">
         {children}
       </main>
       <Footer />
