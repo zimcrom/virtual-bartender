@@ -4,7 +4,7 @@ A running list for consistency on fonts/colors/etc and where they're used
 
 ## Fonts
 
-![list of fonts](/images/fonts.png)
+![list of fonts](/public/images/fonts.png)
 
 ### Header
 
@@ -20,4 +20,4 @@ A running list for consistency on fonts/colors/etc and where they're used
 
 ## Colors
 
-![list of colors](/images/colors.png)
+![list of colors](/public/images/colors.png)
