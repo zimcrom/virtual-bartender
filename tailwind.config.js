@@ -18,10 +18,30 @@ module.exports = {
       "8xl": "4rem",
     },
     extend: {
-      colors: {},
+      colors: {
+        'dark-brown': '#1F1A19',
+        'medium-brown': '#593C23',
+        'khaki': '#BCAD8A',
+        'satin-linen': '#E4DFCE',
+        'medium-gray': '#8C807C',
+        'light-gray': '#C3BBB4',
+        'mahogany': '#731F17',
+        'burnt-sepia': '#BC5A2E',
+        'light-sepia': '#BF843B',
+        'yellow-orange': '#BFA004',
+        'dark-green': '#565902',
+        'olive-green': '#888C03',
+        'bright-green': '#869252',
+        'yellow-green': '#D2D904',
+
+      },
       fontFamily: {
         playfairDisplay: ["PlayfairDisplay"],
         oswald: ["Oswald"],
+        lora: ["Lora"],
+        raleway: ["Raleway"],
+        montserrat: ["Montserrat"],
+        cinzel: ["Cinzel"]
       },
     },
   },
