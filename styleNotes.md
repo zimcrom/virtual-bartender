@@ -18,6 +18,12 @@ A running list for consistency on fonts/colors/etc and where they're used
 | --- | --- |
 | Paragraph | Raleway |
 
+### CocktailCard
+
+| Header | Oswald |
+| --- | --- |
+| Paragraph | Raleway |
+
 ## Colors
 
 ![list of colors](/public/images/colors.png)
