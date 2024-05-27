@@ -44,7 +44,7 @@ const CocktailCard: React.FunctionComponent<{
         <p className="font-raleway">{instructions}</p>
         <ul className="flex flex-col">
           {ingredients.map((cocktail, i) => {
-            return <li className="font-raleway">{cocktail}</li>;
+            return <li className="font-raleway" key={i}>{cocktail}</li>;
           })}
         </ul>
       </div>
